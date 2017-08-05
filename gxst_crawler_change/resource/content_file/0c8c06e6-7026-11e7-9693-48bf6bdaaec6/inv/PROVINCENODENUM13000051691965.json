@@ -1,0 +1,25 @@
+{
+    "cacheKey": "0_0",
+    "currentPage": 0,
+    "data": [
+        [],
+        [
+            {
+                "conDate": 2400940800000,
+                "conForm": "1",
+                "conForm_CN": "货币",
+                "invId": "51691965",
+                "lastModifiedTime": null,
+                "subConAm": 918,
+                "subId": "52529573"
+            }
+        ]
+    ],
+    "draw": 1,
+    "error": "",
+    "perPage": 0,
+    "recordsFiltered": 0,
+    "recordsTotal": null,
+    "start": 0,
+    "totalPage": 0
+}

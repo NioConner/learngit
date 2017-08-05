@@ -1,0 +1,79 @@
+[
+    {
+        "recordsTotal": 12,
+        "data": [
+            {
+                "name": "王帆",
+                "position_CN": "监事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "赵君",
+                "position_CN": "监事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "谢义贵",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "乔天明",
+                "position_CN": "董事长",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "聂坤荣",
+                "position_CN": "监事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "方法培",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "杨冬云",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "徐占成",
+                "position_CN": "监事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "乔愚",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "曾清荣",
+                "position_CN": "监事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "王剑",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            },
+            {
+                "name": "蔡发富",
+                "position_CN": "董事",
+                "perId": null,
+                "pripId": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "data": [
+        [
+            {
+                "acId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "其他",
+                "acConAm": 51895,
+                "conDate": 1325260800000
+            }
+        ],
+        [
+            {
+                "subId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "其他",
+                "subConAm": 51895,
+                "conDate": null
+            }
+        ]
+    ]
+}

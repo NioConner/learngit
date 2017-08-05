@@ -1,0 +1,44 @@
+{
+    "data": [
+        [
+            {
+                "acId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "货币",
+                "acConAm": null,
+                "conDate": null
+            }
+        ],
+        [
+            {
+                "subId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "货币",
+                "subConAm": 1,
+                "conDate": 1325260800000
+            },
+            {
+                "subId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "其他",
+                "subConAm": 1,
+                "conDate": 1325260800000
+            },
+            {
+                "subId": null,
+                "conForm": null,
+                "invId": null,
+                "lastModifiedTime": null,
+                "conForm_CN": "货币",
+                "subConAm": 4998,
+                "conDate": null
+            }
+        ]
+    ]
+}
